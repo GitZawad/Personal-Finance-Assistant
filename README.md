@@ -1,1 +1,1 @@
-##Income and Expenditure Management System##
+*Income and Expenditure Management System*
