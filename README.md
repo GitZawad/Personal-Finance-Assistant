@@ -71,34 +71,13 @@ The Income and Expenditure Management System is a Java-based desktop application
 - Implement password encryption for enhanced security.
 
 ## **Screenshots**
-Add screenshots of the application interface here (e.g., login page, admin panel, user dashboard).
+![image](https://github.com/user-attachments/assets/8a5aba62-cea4-49c7-9dc8-e966217dd0e5)
 
-## **Contributing**
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a feature branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add feature-name"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Create a Pull Request.
+
 
 ## **License**
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-## **Contact**
-For questions or suggestions, feel free to reach out:
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
 
----
 
-Replace placeholders like `your-username` and `your-email@example.com` with your actual GitHub username and email. This README will make your project look polished and professional!
 
